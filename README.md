@@ -6,7 +6,7 @@ When you click over the container, a colorful small circle is generated. This pr
 
 ## Libraries
 
-styled-components.
+styled-components, framer-motion & @types/styled-components.
 
 ## Start server
 
